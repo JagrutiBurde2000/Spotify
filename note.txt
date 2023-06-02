@@ -1,0 +1,47 @@
+ font-family: 'Ubuntu', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+     <!-- <div class="songItem">
+                    <img src="Chura Liya hai tumne.jpg" alt="2" >
+                    <span  class="songname">Chura Liya hai tumne</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="Daku.jpg" alt="3" >
+                    <span  class="songname">Daku</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid  songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="humko hamise churalo.jpg" alt="4" >
+                    <span  class="songname">humko hamise churalo</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="Kahani Suno.jpg" alt="5" >
+                    <span  class="songname">Kahani Suno</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="Kinna chir.jpg" alt="6" >
+                    <span  class="songname">Kinna chir</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="Man meri Jan.jpg" alt="7" >
+                    <span  class="songname">Man meri Jan</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="kesriya.jpg" alt="8" >
+                    <span  class="songname">kesriya</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="Rata Lambiyan.jpg" alt="9" >
+                    <span  class="songname">Rata Lambiyan</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div>
+                <div class="songItem">
+                    <img src="Zara Zara.jpg" alt="10" >
+                    <span class="songname">Zara Zara</span>
+                    <span class="songListPlay"><span class="timestamp">05:30   <i class="fa-solid songItemPlay fa-circle-play fa-2xl"></i></span>  </span>
+                </div> -->
