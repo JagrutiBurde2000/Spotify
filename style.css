@@ -135,7 +135,7 @@ nav ul li{
 
 
 /* Responsive styles for mobile view */
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width:600px) {
     .container {
       width: 90%;
       padding: 20px;
@@ -162,6 +162,18 @@ nav ul li{
     
     .timestamp {
       margin-left: 10px;
+    }
+    .bottom{
+        position: sticky;
+       
+        background-color: black;
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        flex-direction: column;
+     
     }
   }
   
