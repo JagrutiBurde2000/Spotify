@@ -138,6 +138,7 @@ nav ul li{
 @media only screen and (max-width:600px) {
     .container {
       width: 90%;
+      height: 100%;
       padding: 20px;
     }
     
@@ -165,7 +166,6 @@ nav ul li{
     }
     .bottom{
         position: sticky;
-       
         background-color: black;
         bottom: 0;
         display: flex;
@@ -173,7 +173,8 @@ nav ul li{
         align-items: center;
         color: white;
         flex-direction: column;
-     
+   
+        gap: 5px;
     }
   }
   
