@@ -26,6 +26,18 @@ nav ul li{
     padding: 0 12px;
    
 }
+.songItem{
+      animation:  moveFromLeftToCenter  5s infinite;
+}
+
+@keyframes moveFromLeftToCenter {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+
 .brand img{
     width:44px;
     padding:0 8px;
@@ -89,8 +101,8 @@ nav ul li{
     padding:4px;
     width:200%
    
-    
 }
+
 
 .songItem img{
     width:40px;
@@ -120,3 +132,41 @@ nav ul li{
     transition: opacity .4s ease-in;
  
 }
+
+
+/* Responsive styles for mobile view */
+@media only screen and (max-width: 500px) {
+    .container {
+      width: 90%;
+      padding: 20px;
+    }
+    
+    .brand {
+      font-size: 1rem;
+    }
+    
+    .songItemContainer {
+      margin-top: 30px;
+    }
+    
+    .songItem {
+      height: 40px;
+      width: 120%;
+      overflow: hidden;
+    }
+    
+    .songItem img {
+      width: 30px;
+      margin: 0;
+    }
+    
+    .timestamp {
+      margin-left: 10px;
+    }
+  }
+  
+  
+  
+  
+  
+  
